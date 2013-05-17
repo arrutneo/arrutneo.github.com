@@ -73,7 +73,7 @@ body {
     ALL: Orange Theme
    =================== */
 
-/*.header-container {
+.header-container {
     border-bottom: 20px solid #e44d26;
 }
 
@@ -90,14 +90,38 @@ body {
 
 .title {
     color: white;
-}*/
+}
 
 /* ==============
     MOBILE: Menu
    ============== */
 
+nav ul {
+    margin: 0;
+    padding: 0;
+}
 
+nav a {
+    display: block;
+    margin-bottom: 10px;
+    padding: 15px 0;
 
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+
+    color: white;
+    background: #e44d26;
+}
+
+nav a:hover,
+nav a:visited {
+    color: white;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
 
 /* ==============
     MOBILE: Main
@@ -133,102 +157,15 @@ body {
    Author's custom styles
    ========================================================================== */
 
-@font-face {
-font-family: 'Bemio';
-src:
-    local('Bemio'),
-    local('Bemio-Regular'),
-    url('Bemio.otf');
-}
 
-@font-face {
-font-family: 'Signika';
-src:
-    local('Signika'),
-    local('Signika-Regular'),
-    url('Signika-Regular.ttf');
-}
 
-@font-face {
-font-family: 'Signika Bold';
-src:
-    local('Signika-Bold'),
-    local('Signika-Bold-Regular'),
-    url('Signika-Bold.ttf');
-}
 
-nav ul {
-    margin: 0;
-    padding: 0;
-}
 
-body {background-color: #1c1c1c; background-image: url(http://nataliadevalle.com.ar/wp/wp-content/themes/V1/img/bg.jpg);
-    font-family: 'Signika', sans-serif;
-}
 
-.arrutime-header {text-align: center}
-.arrutime-logo {width: 10em; height: 3.75em; float: left; background-color: #ebe1c8; margin: 0; font-family: 'Bemio', serif;
-  -webkit-box-shadow: -2px -2px 0 #1c1c1c inset;
-          box-shadow: -2px -2px 0 #1c1c1c inset;
-}
-.arrutime-logo-link {font-size: 1.5em; color: #e25d33; text-decoration: none; display: block; line-height: 2.5em}
-.arrutime-nav {float: left; width: 40em; height: 7.5em}
-.arrutime-nav-item {line-height: 3.65em} /* #d8d4cc #ebe1c8 #edede4*/
-.arrutime-nav-item:nth-child(1),
-.arrutime-nav-item:nth-child(3) {float: left; height: 3.75em; width: 14.375em;
-}
 
-.arrutime-nav-item:nth-child(2),
-.arrutime-nav-item:nth-child(4) {float: right; height: 3.75em; width: 14.375em}
 
-.arrutime-nav-item:nth-child(5) {float: left; height: 7.5em; margin-top: -3.75em; width: 11.25em; line-height: 7.4em}
-.arrutime-nav-link {display: block; color: #1c1c1c; text-decoration: none; font-size: 1.75em; font-family: 'Signika Bold', sans-serif; background-color: #ebe1c8;
-    border-width: 0 2px 2px 0; border-style: solid; border-color: #1c1c1c}
-.arrutime-nav-link:hover {color: #303030}
 
-.arrutime-nav-item:nth-child(1) .arrutime-nav-link {
-    background:
-    radial-gradient(circle at 0% 50%, rgba(223, 93, 51, 0) 9px, rgba(223, 93, 51, .5) 10px, rgba(223, 93, 51, 0) 11px) 0px 10px,
-    radial-gradient(at 100% 100%,     rgba(223, 93, 51, 0) 9px, rgba(223, 93, 51, .5) 10px, rgba(223, 93, 51, 0) 11px),
-    #ebe1c8;
-    background-size: 20px 20px;
-}
 
-.arrutime-nav-item:nth-child(2) .arrutime-nav-link {
-    background: 
-    linear-gradient(135deg, rgba(223, 93, 51, .1) 25%, transparent 25%) -.5em 0,
-    linear-gradient(225deg, rgba(223, 93, 51, .1) 25%, transparent 25%) -.5em 0,
-    linear-gradient(315deg, rgba(223, 93, 51, .1) 25%, transparent 25%),
-    linear-gradient(45deg, rgba(223, 93, 51, .1) 25%, transparent 25%);   
-    background-size: 1em 1em;
-    background-color: #ebe1c8;
-}
-
-.arrutime-nav-item:nth-child(3) .arrutime-nav-link {
-    background:
-    linear-gradient(-45deg, #ebe1c8 25%, transparent 25%, transparent 75%, rgba(223, 93, 51, .2) 75%, rgba(223, 93, 51, .2)) 0 0,
-    linear-gradient(-45deg, rgba(223, 93, 51, .2) 25%, transparent 25%, transparent 75%, #ebe1c8 75%, #ebe1c8) 1em 1em,
-    linear-gradient(45deg, rgba(223, 93, 51, .2) 17%, transparent 17%, transparent 25%, rgba(223, 93, 51, .2) 25%, rgba(223, 93, 51, .2) 36%, transparent 36%, transparent 64%, rgba(223, 93, 51, .2) 64%, rgba(223, 93, 51, .2) 75%, transparent 75%, transparent 83%, rgba(223, 93, 51, .2) 83%) 1em 1em;
-    background-color: #ebe1c8;
-    background-size: 1em 1em;
-}
-.arrutime-nav-item:nth-child(4) .arrutime-nav-link {
-    background:
-    linear-gradient(135deg, #ebe1c8 22px, rgba(223, 93, 51, .15) 22px, rgba(223, 93, 51, .15) 24px, transparent 24px, transparent 67px, rgba(223, 93, 51, .15) 67px, rgba(223, 93, 51, .15) 69px, transparent 69px),
-    linear-gradient(225deg, #ebe1c8 22px, rgba(223, 93, 51, .15) 22px, rgba(223, 93, 51, .15) 24px, transparent 24px, transparent 67px, rgba(223, 93, 51, .15) 67px, rgba(223, 93, 51, .15) 69px, transparent 69px)0 64px;
-    background-color:#ebe1c8;
-    background-size: 64px 128px
-}
-
-.arrutime-nav-item:nth-child(5) .arrutime-nav-link {font-size: 2.25em;
-    background-color: #ebe1c8;
-    background-image: linear-gradient(45deg, rgba(223, 93, 51, .15) 25%, transparent 25%, transparent 75%, rgba(223, 93, 51, .15) 75%, rgba(223, 93, 51, .15)), 
-    linear-gradient(-45deg, rgba(223, 93, 51, .15) 25%, transparent 25%, transparent 75%, rgba(223, 93, 51, .15) 75%, rgba(223, 93, 51, .15));
-    background-size:1em 1em;    
-}
-
-.arrutime-nav-item:nth-child(2) .arrutime-nav-link,
-.arrutime-nav-item:nth-child(4) .arrutime-nav-link {border-width: 0 0 2px 0}
 
 
 
@@ -244,6 +181,21 @@ body {background-color: #1c1c1c; background-image: url(http://nataliadevalle.com
     INTERMEDIATE: Menu
    ==================== */
 
+    nav a {
+        float: left;
+        width: 27%;
+        margin: 0 1.7%;
+        padding: 25px 2%;
+        margin-bottom: 0;
+    }
+
+    nav li:first-child a {
+        margin-left: 0;
+    }
+
+    nav li:last-child a {
+        margin-right: 0;
+    }
 
 /* ========================
     INTERMEDIATE: IE Fixes
@@ -264,7 +216,12 @@ body {background-color: #1c1c1c; background-image: url(http://nataliadevalle.com
     WIDE: CSS3 Effects
    ==================== */
 
-
+    .header-container,
+    .main aside {
+        -webkit-box-shadow: 0 5px 10px #aaa;
+           -moz-box-shadow: 0 5px 10px #aaa;
+                box-shadow: 0 5px 10px #aaa;
+    }
 
 /* ============
     WIDE: Menu
@@ -301,7 +258,7 @@ body {background-color: #1c1c1c; background-image: url(http://nataliadevalle.com
    =============== */
 
     .wrapper {
-        width: 60em;
+        width: 1026px; /* 1140px - 10% for margins */
         margin: 0 auto;
     }
 }
