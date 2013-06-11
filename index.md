@@ -20,6 +20,6 @@ layout: home
 </div>
 <div class="main-container">
     <div class="main wrapper clearfix">
-        <img src="/assets/images/arrutime.png" title="arrutime" alt="José Luis Arruti Lozano">
+        <img src="/assets/images/arrutime.jpg" title="arrutime" alt="José Luis Arruti Lozano">
     </div>
 </div>
