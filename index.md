@@ -3,7 +3,7 @@ layout: home
 ---
 
 <div class="header-container">
-    <header class="wrapper clearfix arrutime-header">
+    <header class="wrapper clearfix arrutime-header" style="display: none">
         <h1 class="arrutime-logo">
         	<a href="#" class="arrutime-logo-link">arrutime</a>
         </h1>
