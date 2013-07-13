@@ -239,6 +239,13 @@ body {background-color: #1c1c1c; background-image: url(http://nataliadevalle.com
 .arrutime-nav-item:nth-child(2) .arrutime-nav-link,
 .arrutime-nav-item:nth-child(4) .arrutime-nav-link {border-width: 0 0 2px 0}
 
+.arruti-description-container {position: absolute;
+top: 90px;
+right: 80px;
+background-color: #EBE1C8;
+width: 400px;}
+.wrapper {position: relative;}
+
 
 
 
