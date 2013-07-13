@@ -243,7 +243,7 @@ body {background-color: #1c1c1c; background-image: url(http://nataliadevalle.com
 .arruti-description-container .arruti-description {font-size: 1.25em}
 .arruti-description strong {font-size: 1.5em; display: block; padding-bottom: .3em}
 .arruti-description span {color: #e25d33}
-.arruti-contact dt {display: inline-block}
+.arruti-contact dt {display: inline-block; font-size: .9em;}
 .arruti-contact dd {margin: 0 .5em 0 0; display: inline-block}
 .arruti-contact a {color: #e25d33; text-decoration: none}
 .arruti-contact a:hover {text-decoration: underline}
