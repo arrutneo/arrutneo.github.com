@@ -21,5 +21,19 @@ layout: home
 <div class="main-container">
     <div class="main wrapper clearfix">
         <img src="/assets/images/arrutime.jpg" title="arrutime" alt="José Luis Arruti Lozano">
+        <div class="arruti-description-container">
+            <p class="arruti-description">
+                <strong>Hi, I'm <span>José Luis Arruti.</span></strong>
+                I'm a front end engineer focused on problem design and solution.
+            </p>
+            <dl class="arruti-contact">
+                <dt>email</dt>
+	            <dd><a href="mailto:arruti.me">arruti.me</a></dd>
+                <dt>email</dt>
+                <dd><a href="http://twitter.com/arrutime">twitter</a></dd>	            
+                <dt>resume</dt>
+	            <dd><a href="#">arruti-resume.pdf</a></dd>
+            </dl>
+        </div>
     </div>
 </div>
