@@ -27,12 +27,12 @@ layout: home
                 I'm a front end engineer focused on problem design and solution.
             </p>
             <dl class="arruti-contact">
-                <dt>email</dt>
+                <dt>email:</dt>
 	            <dd><a href="mailto:arruti.me">arruti.me</a></dd>
-                <dt>twitter</dt>
+                <dt>twitter:</dt>
                 <dd><a href="http://twitter.com/arrutime">arrutime</a></dd>	            
-                <dt>resume</dt>
-	            <dd><a href="#">arruti-resume.pdf</a></dd>
+                <dt>resume:</dt>
+	            <dd><a href="#">arruti.pdf</a></dd>
             </dl>
         </div>
     </div>
