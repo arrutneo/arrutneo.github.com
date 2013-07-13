@@ -29,8 +29,8 @@ layout: home
             <dl class="arruti-contact">
                 <dt>email</dt>
 	            <dd><a href="mailto:arruti.me">arruti.me</a></dd>
-                <dt>email</dt>
-                <dd><a href="http://twitter.com/arrutime">twitter</a></dd>	            
+                <dt>twitter</dt>
+                <dd><a href="http://twitter.com/arrutime">arrutime</a></dd>	            
                 <dt>resume</dt>
 	            <dd><a href="#">arruti-resume.pdf</a></dd>
             </dl>
