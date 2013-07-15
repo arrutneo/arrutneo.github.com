@@ -32,7 +32,7 @@ layout: home
                 <dt>twitter:</dt>
                 <dd><a href="http://twitter.com/arrutime">arrutime</a></dd>	            
                 <dt>resume:</dt>
-	            <dd><a href="#">arruti.pdf</a></dd>
+	            <dd><a href="/assets/documents/Resume.pdf">arruti.pdf</a></dd>
             </dl>
         </div>
     </div>
