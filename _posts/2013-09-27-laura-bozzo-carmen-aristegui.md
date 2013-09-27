@@ -30,7 +30,7 @@ En la siguiente gráfica se muestran las marcas que más aparecen durante la emi
 ![Gráfico de los patrocinadores del programa de Laura Bozzo](/assets/images/grafico_patrocinadores_laura_bozzo.png "Gráfico de los patrocinadores del programa de Laura Bozzo")
 Fuente: [http://intranet.uat.edu.mx](http://intranet.uat.edu.mx/cienciauat/ediciones/Edici%C3%B3n%20No.%2021,%20Junio-Agosto%202011/La%20televisi%C3%B3n%20y%20las%20estrategias%20de%20programaci%C3%B3n%20para%20la%20venta%20de%20audiencias%20en%20M%C3%A9xico.pdf "LA TELEVISIÓN Y LAS ESTRATEGIAS DE PROGRAMACIÓN PARA LA VENTA DE AUDIENCIAS EN MÉXICO")
 
-Gracias a las redes sociales y plataformas como [change.org](change.org "change.org") podemos presionar a estas marcas y hacer una campaña denunciando su apoyo a Laura Bozzo quien usa los recursos públicos para intereses privados defraudando a todos los mexicanos.
+Gracias a las redes sociales y plataformas como [change.org](http://change.org "change.org") podemos presionar a estas marcas y hacer una campaña denunciando su apoyo a Laura Bozzo quien usa los recursos públicos para intereses privados defraudando a todos los mexicanos.
 
 ¿Parece imposible presionar a las marcas para que retiren su apoyo de un programa en concreto? No lo es, en España ya se ha hecho en dos ocasiones. La cadena Telecinco ha emitido programas muy polémicos por su contenido y falta de sensibilidad, la sociedad “invitó” a las empresas que patrocinaban el programa a dejar de hacerlo y a cambio seguiría comprando sus productos.
 
