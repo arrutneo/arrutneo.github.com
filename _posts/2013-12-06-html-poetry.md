@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Tag rhyme"
+title: "Hyperlink"
 tags: HTML HTML5 Poetry Geek Rhyme
 ---
-
-#Hyperlink
 
 Just take a look at your `<body>`
 
