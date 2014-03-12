@@ -20,6 +20,7 @@ layout: home
 </div>
 <div class="main-container">
     <div class="main wrapper clearfix">
+        <img src="/assets/images/hola.jpg" title="arrutime" alt="José Luis Arruti Lozano">
         <div class="arruti-description-container">
             <p class="arruti-description">
                 <strong>Hi, I'm <span>José Luis Arruti.</span></strong>
